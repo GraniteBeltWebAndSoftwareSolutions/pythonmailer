@@ -16,5 +16,4 @@ def sendmail():
 
 msg = raw_input('Enter  a message to send please.... ')
 
-  sendmail()
-print (msg)
+sendmail()
